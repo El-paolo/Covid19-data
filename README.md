@@ -1,4 +1,4 @@
-# Project Name
+# Covid-19 Data Analysis
 
 Jupyter notebook project made for data analysis of  google bigquery open covid-19 data in the US
 trough 01-2021 to 10-2022.
